@@ -1,9 +1,3 @@
-# Super-Sales-Dashboard
-
-For your GitHub repository's README file, here’s a clear and professional structure that includes a description of your Power BI dashboard project, a screenshot, and instructions for downloading and viewing the dashboard:
-
----
-
 ## Super Store Sales Dashboard
 
 ### Project Overview  
@@ -18,10 +12,10 @@ This Power BI project transforms raw sales data into actionable insights by anal
 Here’s a preview of the **Super Store Sales Dashboard**:
 
 ![Screenshot 2024-10-18 004154](https://github.com/user-attachments/assets/a80f5beb-0c8f-4ffc-9f93-0a7ffcef8995)
-*Sample of key visualizations in the dashboard.*
+                           *Sample of key visualizations in the dashboard.*
 
 ![Screenshot 2024-10-18 004216](https://github.com/user-attachments/assets/fbeeb6df-aa6c-43e7-ad00-04ae0788f3a5)
-*Sample for Sales Forecast for 15 days*
+                                *Sample for Sales Forecast for 15 days*
 
 ### How to View the Dashboard
 
