@@ -13,7 +13,8 @@ Here’s a preview of the **Super Store Sales Dashboard**:
 
 *1.Sample of key visualizations in the dashboard.*
 
-![Screenshot 2024-10-18 004154](https://github.com/user-attachments/assets/a80f5beb-0c8f-4ffc-9f93-0a7ffcef8995)
+![Screenshot 2024-12-06 172910](https://github.com/user-attachments/assets/2853f46d-0a8c-496d-8b57-b802b53ef6da)
+
                            
 *2.Sample for Sales Forecast for 15 days*
 
